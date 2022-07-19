@@ -1,0 +1,23 @@
+body {
+    background: rgb(206, 206, 206);
+}
+
+.photo {
+    width: 250px;
+    border: 3px double rgb(255, 255, 255);
+    border-radius: 50%;
+
+    /*border-style: dashed solid;*/
+}
+
+#main-title {
+    color: rgb(255, 255, 0);
+}
+
+h3 {
+     color: rgb(46, 139, 87);
+ }
+
+ p {
+     color: rgb(33, 37, 121);
+ }

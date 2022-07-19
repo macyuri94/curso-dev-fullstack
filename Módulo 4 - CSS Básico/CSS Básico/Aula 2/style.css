@@ -1,0 +1,19 @@
+body {
+    background: rgb(206, 206, 206);
+}
+
+.photo {
+    width: 250px;
+}
+
+#main-title {
+    color: rgb(255, 255, 0);
+}
+
+h3 {
+     color: rgb(46, 139, 87);
+ }
+
+ p {
+     color: rgb(33, 37, 121);
+ }

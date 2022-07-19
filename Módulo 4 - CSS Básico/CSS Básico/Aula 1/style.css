@@ -1,0 +1,16 @@
+body {
+    background: #e3e3e3;
+}
+
+h3 {
+     color: seagreen;
+ }
+
+ .photo {
+     width: 250px;
+     border-radius: 25%
+ }
+
+ #main-title {
+     color: yellow;
+ }

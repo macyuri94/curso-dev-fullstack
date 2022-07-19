@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url(background.jpg);
+    /*background-repeat: no-repeat;*/
+    /*background-position: 90% 10%;*/
+    background-position: center center;
+    /*background-size: cover;*/
+}
+
+.photo {
+    width: 250px;
+}
+
+#main-title {
+    color: rgb(255, 255, 0);
+}
+
+h3 {
+     color: rgb(46, 139, 87);
+ }
+
+ p {
+     color: rgb(33, 37, 121);
+ }
